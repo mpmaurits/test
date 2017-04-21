@@ -4,26 +4,25 @@
             "name":"Totem",
             "maintainer":"TWTG",
             "websiteURL":"http://wemaketotem.strikingly.com/",
-            "email":"",
             "help":{
-                "online":""
+                "online":"https://forums.adafruit.com"
             },
             "platforms":[
                 {
                     "name":"Totem",
                     "architecture":"samd",
-                    "version":"1.3.2",
+                    "version":"1.0.0",
                     "category":"Contributed",
                     "url":"https://github.com/mpmaurits/test/raw/master/Totem-samd-1.0.0.tar.bz2",
                     "archiveFileName":"Totem-samd-1.0.0.tar.bz2",
                     "checksum":"SHA-256:ccad3da73aa6d471cd19a52b1a93cfacc5ec7164f8b2d060dab57bfc3349877c",
                     "size":"1435687",
                     "help":{
-                        "online":""
+                        "online":"https://forums.adafruit.com"
                     },
                     "boards":[
                         {
-                            "name":"SparkFun SAMD21 Mini Breakout"
+                            "name":"Bobbi"
                         }
                     ],
                     "toolsDependencies":[
